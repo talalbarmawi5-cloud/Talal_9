@@ -1,0 +1,15 @@
+/Users/talal/Desktop/Today/bin/Debug/net10.0/Today
+/Users/talal/Desktop/Today/bin/Debug/net10.0/Today.deps.json
+/Users/talal/Desktop/Today/bin/Debug/net10.0/Today.runtimeconfig.json
+/Users/talal/Desktop/Today/bin/Debug/net10.0/Today.dll
+/Users/talal/Desktop/Today/bin/Debug/net10.0/Today.pdb
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.AssemblyInfo.cs
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.sourcelink.json
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.dll
+/Users/talal/Desktop/Today/obj/Debug/net10.0/refint/Today.dll
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.pdb
+/Users/talal/Desktop/Today/obj/Debug/net10.0/Today.genruntimeconfig.cache
+/Users/talal/Desktop/Today/obj/Debug/net10.0/ref/Today.dll
